@@ -1,0 +1,11 @@
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\bin\Debug\netcoreapp2.0\NQueens.deps.json
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\bin\Debug\netcoreapp2.0\NQueens.runtimeconfig.json
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\bin\Debug\netcoreapp2.0\NQueens.runtimeconfig.dev.json
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\bin\Debug\netcoreapp2.0\NQueens.dll
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\bin\Debug\netcoreapp2.0\NQueens.pdb
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\obj\Debug\netcoreapp2.0\NQueens.csprojResolveAssemblyReference.cache
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\obj\Debug\netcoreapp2.0\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\obj\Debug\netcoreapp2.0\NQueens.AssemblyInfoInputs.cache
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\obj\Debug\netcoreapp2.0\NQueens.AssemblyInfo.cs
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\obj\Debug\netcoreapp2.0\NQueens.dll
+C:\Users\Grzesiek\Desktop\semVI\SI\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblems\NQueensAndLatinSquareProblem\NQueens\obj\Debug\netcoreapp2.0\NQueens.pdb
